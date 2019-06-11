@@ -1,0 +1,34 @@
+.autor{
+	text-align: right;
+}
+.cabecalho{
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	border: none;
+
+}
+body{
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	background:linear-gradient(to right, red,blue);
+	color:white
+}
+h1{
+	font-size: 80px;
+	height: 70px;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5%;
+}
+fieldset{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	height: 40%;
+	color: black;
+	border: none;
+}
